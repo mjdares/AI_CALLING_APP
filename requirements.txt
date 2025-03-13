@@ -1,0 +1,7 @@
+twilio
+openai
+elevenlabs
+pydub
+flask
+soundfile
+python-dotenv
